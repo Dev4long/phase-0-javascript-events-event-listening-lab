@@ -7,6 +7,3 @@ function clickAlert() {
 
 input.addEventListener('click', clickAlert); 
 }
-addEventListener('click', function() {
-    alert('I was clicked!');
-  }); 
